@@ -27,3 +27,23 @@ Input from client on some website link to the server now sever will comm
 to us with three digit code classified as 5 types of meaning one two three 
 four five i didnt dig deep after that left the lib no main topic is system
 server resource aws resources and these httpd classfi 
+
+
+
+
+Eleven feb 
+Task in NIIT was to creat virtual networks in AWS
+Where I created a vpc and created six diff subnets 
+Two public subnets two private subnets and two db private subnets
+
+Then created a private rt and associated private subnets with it and allocated elastic ip
+Same for public too
+
+Then natgateway created and added the public rt
+And private rt with nat route
+
+Create lb sg and add inbound rules
+Then app server sg add inbound for https to lb sg
+And finally db server sg to https app server sg 
+
+Then create log flow from vpc and cloud trail for monitoring 
