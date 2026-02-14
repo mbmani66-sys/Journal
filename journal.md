@@ -47,3 +47,23 @@ Then app server sg add inbound for https to lb sg
 And finally db server sg to https app server sg 
 
 Then create log flow from vpc and cloud trail for monitoring 
+
+
+
+12,13 Feb and 14 Feb
+
+Was doing NIIT Capstone project
+Where first was creating virtual networks in was
+In which creating vpc and adding subnets public and private in two diff az so that while creating 
+Db it doesn't affect and also while creating load balancer
+And also creating sg for each one like lb server and Wordpress app 
+Each will have the ports like http and ssh 
+In which ssh for lb sg is Wordpress 
+And for app it is mapped to app 
+And route tables created for both public and private subnets associated with it 
+And internet gateway is created and attached to vac and nat gateway created and attached to rt
+
+Finally RDS creation lb and cloud trail created for monitoring 
+
+Then while creating  RDS faced error due to marking high size and created subnets in same az
+Then in lb creating its like creating ec2 launch template and creating target groups 
