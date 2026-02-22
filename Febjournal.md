@@ -25,3 +25,24 @@ then one more mistake in yaml file i created the directory and didn't put the
 yaml insite the file so it didn't work 
 
 
+Feb two two journal
+anyway python already installed so verify it using version command
+
+
+then create a direcotry for restapi then go inside the directory using cd
+ then create a virtual environment using venv venv
+
+and then activate it
+
+
+now create a file where we can put the python code and then run the api
+command uvicorn main app reload
+
+then we can open the browser it will show todays date 
+
+
+
+
+
+
+
