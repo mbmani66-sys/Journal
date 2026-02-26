@@ -40,6 +40,26 @@ command uvicorn main app reload
 
 then we can open the browser it will show todays date 
 
+two six feb
+Studied all the sixteen ques which studied yesterday and watched videos on 
+ipp address where 192.168.1 is network and next 1 is host  and final 24 is
+subnet mask 
+
+Linux solves so many problems on top it solves the security problems in 
+four ways like user permissions controls who can log in 
+file permisions controls who can read write excuste files rwx
+authentication verifies user identity passwords keayss
+firewall support controls network access
+
+so in a real scenario everyone there will be one computer server where 
+that server runs one linux os many users connect to it at the same time 
+so each person gets their own user acc
+they log in remotely using ssh
+but depends on the file permission access they are able to use.
+
+
+
+
 
 
 
